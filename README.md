@@ -28,7 +28,7 @@ This program is written using Java and the JavaSwing library just like RayMarchi
 
 ### Getting Started 🚀
 - **Option 1**
-  - Navigate to the **_release_** section in the [**repository**](https://github.com/JackHuynh0610/RayMarching). Click on **RayCasting alpha**.
+  - Navigate to the **_release_** section in the [**repository**](https://github.com/JackHuynh0610/RayCasting-3D). Click on **RayCasting alpha**.
   - Download the **.jar** file. Remember where you installed it, navigate to that folder, double-click on it, and then enjoy!
 - **Option 2**
   - Clone this repository, navigate to the jar file, and then run it. By cloning, you can explore the source code and test things out on your machine.
@@ -38,4 +38,4 @@ This program is written using Java and the JavaSwing library just like RayMarchi
   - Check the Environment Path. This [**link**](https://www.javatpoint.com/how-to-set-path-in-java) might be helpful.
 
 ## Enjoy 🌟
-![RayCasting](rayMarch.png) 🚀
+![RayCasting](https://github.com/JackHuynh0610/RayCasting-3D/blob/main/Raycaster/raycast.png) 🚀
