@@ -1,6 +1,6 @@
 # RayCasting-3D
 
-This program is a continuation of the [**RayMarching**](https://github.com/JackHuynh0610/RayMarching). This has a twist to it, by converting 2D plane into 3D.
+This program is a continuation of the [**RayMarching**](https://github.com/JackHuynh0610/RayMarching). This has a twist to it, by converting 2D plane into 3D. Please take a look at [**RayMarching**](https://github.com/JackHuynh0610/RayMarching) for program summarization.
 
 Learn more about it here:
 - [lodev.org](https://lodev.org/cgtutor/raycasting.html) 🎨
