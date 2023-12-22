@@ -38,4 +38,4 @@ This program is written using Java and the JavaSwing library just like RayMarchi
   - Check the Environment Path. This [**link**](https://www.javatpoint.com/how-to-set-path-in-java) might be helpful.
 
 ## Enjoy 🌟
-![RayCasting](https://github.com/JackHuynh0610/RayCasting-3D/raycasting.gif) 🚀
+![RayCasting](https://github.com/JackHuynh0610/RayCasting-3D/blob/main/raycasting.gif) 🚀
